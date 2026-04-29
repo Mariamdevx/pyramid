@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenGL_Ithink.vcxproj" Id="090be087-4086-40bb-989c-163b75b9257b" />
+</Solution>
